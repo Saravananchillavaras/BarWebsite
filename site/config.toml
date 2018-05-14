@@ -1,9 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Go Where"
+title = "Go Where?"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "A classic cocktail bar, the prefect place for you..."
 
 [[menu.main]]
     name = "About"
