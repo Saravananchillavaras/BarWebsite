@@ -1,8 +1,15 @@
++++
+date = "2017-05-17T13:03:58-04:00"
+title = "Drinks"
+url = "/drink"
++++
+
 ----
--date: 2018-05-18T05:19-05:30
--categories:
+categories:
 -- drinks
--type: house cocktail
--title sex on the beach
+type: house cocktail
+title: sex on the beach
+description: Vodka, Peach schnapps, Orange or pineapple juice, Cranberry juice, Chambord
+price: 12
 
 ----
