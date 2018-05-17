@@ -12,5 +12,5 @@ title = "Go Where?"
     
     [[menu.main]]
     name = "Food"
-    url  = "/food/index"
+    url  = "/food"
     weight = 2
