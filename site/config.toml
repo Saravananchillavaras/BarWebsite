@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Go Where?"
 
 [params]
-  description = "A classic cocktail bar, the prefect place for you..."
+  description = "A classic cocktail bar, the perfect place for you..."
 
 [[menu.main]]
     name = "Drinks"
