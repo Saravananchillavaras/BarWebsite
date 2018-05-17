@@ -6,8 +6,8 @@ title = "Go Where?"
   description = "A classic cocktail bar, the prefect place for you..."
 
 [[menu.main]]
-    name = "Drink"
-    url  = "/drink"
+    name = "Drinks"
+    url  = "/drinks"
     weight = 1
     
 [[menu.main]]
