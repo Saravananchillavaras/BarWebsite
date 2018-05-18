@@ -1,11 +1,11 @@
 +++
 date = "2017-05-17T13:03:58-04:00"
-title = "About"
-url = "/about"
+title = "Drinks"
+url = "/drinks"
 +++
 
 ---
-categories: drink
+categories: drinks
 type: house cocktail
 title: sex on the beach
 description: Vodka, Peach schnapps, Orange or pineapple juice, Cranberry juice, Chambord
