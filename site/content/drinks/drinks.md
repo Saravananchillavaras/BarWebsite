@@ -6,7 +6,7 @@ url = "/about"
 
 ---
 -categories:
--  - Drinks
+  - Drinks
 -date: 2017-05-17T17:03:58.000Z
 -title: Sex on the beach
 -description: >-
