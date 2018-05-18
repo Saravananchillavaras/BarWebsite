@@ -13,10 +13,10 @@ The 241-seater bar situated at The Oval in Seletar Aerospace Park sets itself ap
 For diners seeking something vastly different from the usual restaurants in town and to congregate over drinks in a most charming surrounding, Go Where bar is worth a visit.
 
 Operating Hours: 
-Monday to Thursday: 11.30am – 1am
-Friday & Eve of Public Holidays: 11.30am – 2am
-Saturday: 8.30am – 2am
-Sunday and Public Holidays: 8.30am – 1am
+*Monday to Thursday: 11.30am – 1am
+*Friday & Eve of Public Holidays: 11.30am – 2am
+*Saturday: 8.30am – 2am
+*Sunday and Public Holidays: 8.30am – 1am
 
 Sincerely,
 # Mr. Chillavaras
