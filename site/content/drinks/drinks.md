@@ -5,7 +5,8 @@ url = "/drinks"
 +++
 
 ---
-categories: drinks
+categories: 
+-drinks
 type: house cocktail
 title: sex on the beach
 description: Vodka, Peach schnapps, Orange or pineapple juice, Cranberry juice, Chambord
